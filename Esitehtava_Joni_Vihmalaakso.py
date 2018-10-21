@@ -1,0 +1,5 @@
+print ("#Automaatinen testaus on huomattavasti nopeampaa ja se vie vähemmän resursseja (työtunnit). Useamman kortin testaus samanaikaisesti on myös mahdollista, toisinkuin manuaalisella testauksella.")
+print ("##Haasteita on esimerkiksi kuinka luotettavaa testauksen automatisointi on. Löytääkä automatisoitu testaus kaikki virheet, mitä manuaalisessa testauksessa löydettäisiin. Automaattisen testauksen organisointi ja sen pystyttämiseen kuluva aika ja työ.")
+print ("###Versionhallintaan tarvitaan, koska rinnakkaiset testaajat tai ryhmät voivat olla niin eri vaiheessa testaustansa, mikä voi sekoittaa onko esimerkiksi uusimmat lisäykset testattu, mitä on otettu mukaan uusimmassa versiossa.")
+print ("####Python on aika yksinkertainen kielioppia ja alkaa käyttämään. Haasteita varmasti sulautettuihin järjestelmiin on, että kieli on korkeantason kieli ja esimerkiksi rekistereiden kanssa toimiminen voi olla haaste.")
+print (" #####Esimerkiksi edellisten tehtävien PWM- tehtävän voisi automatisoida aktivoimaan kytkintä ja seuraamaan jännitearvojen muutosta.")
