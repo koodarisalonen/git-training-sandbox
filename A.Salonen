@@ -1,0 +1,17 @@
+print("Hello World!")
+
+
+
+print("1. Se on nopeampaa sekä halvempaa. ")
+
+
+print("2. Pitää tietää mitä ja millä tekee sekä olla riittävästi tietotaitoa, että testauksesta saa oikeita tuloksia. ")
+
+
+print("3.Sitä tarvitaan tuotosten hallinnassa. Se mahdollistaa ohjelmiston kehityksen seurannan ja hallitun kehityksen. Jos testaajat eivät päivitä muutoksia riittävän useasti niin tulee päällekkäisiä työtehtäviä ja kehitys hidastuu. ")
+
+
+print("4. Python on nopeampi kirjoittaa kuin C:ee ja se sisältää paljon testaukseen suunniteltuja kirjastoja. C:ee taas  soveltuu paremmin laitteistoläheiseen ja matalan tason ohjelmointiin. ")
+
+
+print("5. Se voisi korvata manuaalista työtä ja siten nopeuttaa testausta. ")
